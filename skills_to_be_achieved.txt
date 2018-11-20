@@ -1,1 +1,2 @@
-learn electronic circuit design
+1.learn electronic circuit design
+2.learn software development skills
