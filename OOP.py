@@ -1,4 +1,4 @@
-word='this is me'
+word='this is my activity'
 count=0
 for w in word:
     if len(w) == 2:
